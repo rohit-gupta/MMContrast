@@ -1,0 +1,6079 @@
+{
+ "train": {
+  "math": {
+   "41826": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41302": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41615": [
+    "measurable_attributes"
+   ],
+   "41041": [
+    "shape_id"
+   ],
+   "41761": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "41587": [
+    "measurable_attributes"
+   ],
+   "4043": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41669": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41690": [
+    "measurable_attributes"
+   ],
+   "41076": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40039": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41808": [
+    "sorting"
+   ],
+   "40066": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41312": [
+    "comparing_groups"
+   ],
+   "41837": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "40117": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40011": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40153": [
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41578": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "40029": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40019": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41266": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40084": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41602": [
+    "measurable_attributes"
+   ],
+   "4021": [
+    "spatial_language"
+   ],
+   "41271": [
+    "comparing_groups",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41567": [
+    "measurable_attributes"
+   ],
+   "41263": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41855": [
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41308": [
+    "addition_subtraction",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41854": [
+    "written_numerals"
+   ],
+   "41045": [
+    "shape_id"
+   ],
+   "41333": [
+    "spatial_language"
+   ],
+   "41639": [
+    "measurable_attributes"
+   ],
+   "41686": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41625": [
+    "analyze_compare_shapes",
+    "shape_id",
+    "sorting"
+   ],
+   "41336": [
+    "spatial_language"
+   ],
+   "4024": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41810": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41624": [
+    "measurable_attributes"
+   ],
+   "40151": [
+    "counting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41301": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41007": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41856": [
+    "building_drawing_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41619": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "40006": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41563": [
+    "counting",
+    "measurable_attributes"
+   ],
+   "40018": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41795": [
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40025": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41774": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41668": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41877": [
+    "sorting",
+    "spatial_language"
+   ],
+   "40065": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40156": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41596": [
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40102": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41551": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40107": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40135": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41547": [
+    "addition_subtraction",
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41297": [
+    "comparing_groups",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41789": [
+    "analyze_compare_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting"
+   ],
+   "41115": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41660": [
+    "measurable_attributes"
+   ],
+   "41192": [
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41524": [
+    "addition_subtraction"
+   ],
+   "41253": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41638": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41793": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41833": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41627": [
+    "measurable_attributes"
+   ],
+   "41764": [
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41800": [
+    "sorting"
+   ],
+   "41254": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "1130": [
+    "spatial_language"
+   ],
+   "41839": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41123": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41682": [
+    "measurable_attributes"
+   ],
+   "41268": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41680": [
+    "counting",
+    "measurable_attributes",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41831": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41612": [
+    "measurable_attributes"
+   ],
+   "41517": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41061": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41514": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41836": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41011": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41857": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "shape_id"
+   ],
+   "41511": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40098": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41119": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41597": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41630": [
+    "measurable_attributes"
+   ],
+   "40078": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41548": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41838": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41545": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41841": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40091": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41780": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40137": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40012": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40041": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40013": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41832": [
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41552": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40095": [
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41048": [
+    "shape_id",
+    "spatial_language"
+   ],
+   "40000": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41051": [
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41306": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40028": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41803": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41609": [
+    "measurable_attributes"
+   ],
+   "40036": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41613": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41766": [
+    "sorting"
+   ],
+   "41261": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41687": [
+    "measurable_attributes",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41537": [
+    "addition_subtraction"
+   ],
+   "41029": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41777": [
+    "sorting",
+    "spatial_language"
+   ],
+   "4055": [
+    "comparing_groups",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40062": [
+    "counting",
+    "written_numerals"
+   ],
+   "4020": [
+    "quantity_of_objects"
+   ],
+   "41853": [
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41101": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41792": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41583": [
+    "measurable_attributes"
+   ],
+   "41802": [
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41570": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41272": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41646": [
+    "measurable_attributes",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41502": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40140": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41307": [
+    "addition_subtraction",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41034": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41685": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41591": [
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "40053": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41633": [
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40115": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41559": [
+    "addition_subtraction"
+   ],
+   "40051": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41634": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41500": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41536": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41752": [
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41809": [
+    "analyze_compare_shapes",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41056": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41865": [
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40071": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40112": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41316": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41610": [
+    "measurable_attributes"
+   ],
+   "41503": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41605": [
+    "measurable_attributes"
+   ],
+   "40142": [
+    "counting",
+    "written_numerals"
+   ],
+   "40072": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41851": [
+    "building_drawing_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40089": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40143": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41252": [
+    "addition_subtraction",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40103": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40058": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41677": [
+    "measurable_attributes"
+   ],
+   "40118": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40133": [
+    "counting",
+    "written_numerals"
+   ],
+   "41525": [
+    "addition_subtraction",
+    "quantity_of_objects"
+   ],
+   "41620": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41797": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "41095": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41564": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "41292": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40007": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41822": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41037": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41074": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41819": [
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41084": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41109": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41637": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "40152": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41874": [
+    "analyze_compare_shapes",
+    "counting",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41276": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41683": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41531": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40074": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41868": [
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "40069": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40106": [
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41030": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40108": [
+    "counting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40088": [
+    "counting",
+    "written_numerals"
+   ],
+   "41270": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41775": [
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41786": [
+    "analyze_compare_shapes",
+    "shape_id",
+    "sorting"
+   ],
+   "41776": [
+    "sorting",
+    "spatial_language"
+   ],
+   "40082": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41681": [
+    "measurable_attributes",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "1219": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40061": [
+    "counting",
+    "written_numerals"
+   ],
+   "41862": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41279": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41829": [
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41674": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "1148": [
+    "spatial_language"
+   ],
+   "41040": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41288": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41783": [
+    "analyze_compare_shapes",
+    "sorting",
+    "spatial_language"
+   ],
+   "40005": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41287": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41579": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40052": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41804": [
+    "sorting"
+   ],
+   "40093": [
+    "counting",
+    "written_numerals"
+   ],
+   "41571": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41304": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41183": [
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41575": [
+    "addition_subtraction",
+    "measurable_attributes"
+   ],
+   "41519": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41518": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40096": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41202": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41504": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41097": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41827": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41594": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41300": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41600": [
+    "addition_subtraction",
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "40009": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40044": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41623": [
+    "measurable_attributes"
+   ],
+   "41117": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41326": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "1205": [
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41205": [
+    "shape_id",
+    "shape_id"
+   ],
+   "41886": [
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41650": [
+    "comparing_groups",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41258": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41275": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "1269": [
+    "spatial_language"
+   ],
+   "41269": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals",
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "1268": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41195": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41653": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "40055": [
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41670": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41762": [
+    "analyze_compare_shapes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40027": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40150": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41088": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41592": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41608": [
+    "measurable_attributes"
+   ],
+   "41885": [
+    "analyze_compare_shapes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41787": [
+    "sorting",
+    "spatial_language"
+   ],
+   "40077": [
+    "counting",
+    "written_numerals"
+   ],
+   "41628": [
+    "measurable_attributes"
+   ],
+   "41335": [
+    "spatial_language"
+   ],
+   "41522": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41816": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41852": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41560": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41077": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "4031": [
+    "counting",
+    "written_numerals"
+   ],
+   "40158": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41815": [
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41863": [
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41647": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41758": [
+    "shape_id"
+   ],
+   "41196": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41846": [
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41186": [
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41009": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40099": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41798": [
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41664": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41291": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41331": [
+    "shape_id",
+    "spatial_language"
+   ],
+   "41811": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41632": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "40010": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41573": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41026": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41565": [
+    "measurable_attributes"
+   ],
+   "40035": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41860": [
+    "addition_subtraction",
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41861": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41618": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41055": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41337": [
+    "spatial_language"
+   ],
+   "40104": [
+    "counting",
+    "written_numerals"
+   ],
+   "41611": [
+    "measurable_attributes"
+   ],
+   "41125": [
+    "shape_id",
+    "written_numerals"
+   ],
+   "1125": [
+    "spatial_language"
+   ],
+   "40022": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41507": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41678": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40097": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41289": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41534": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41651": [
+    "measurable_attributes"
+   ],
+   "41843": [
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41765": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting"
+   ],
+   "1120": [
+    "counting",
+    "spatial_language"
+   ],
+   "41781": [
+    "measurable_attributes",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41257": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40056": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41290": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41658": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41835": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "40129": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41655": [
+    "comparing_groups",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41589": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41840": [
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41189": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40149": [
+    "counting",
+    "written_numerals"
+   ],
+   "41782": [
+    "sorting"
+   ],
+   "41771": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41643": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41676": [
+    "measurable_attributes"
+   ],
+   "41642": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41673": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40079": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41828": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41807": [
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41251": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41049": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40147": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41873": [
+    "comparing_groups",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41315": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41666": [
+    "measurable_attributes"
+   ],
+   "41329": [
+    "spatial_language"
+   ],
+   "41528": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41763": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41515": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41132": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41532": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41751": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41791": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "40023": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "4035": [
+    "measurable_attributes"
+   ],
+   "40040": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41065": [
+    "analyze_compare_shapes",
+    "counting",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40154": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41541": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "40121": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41585": [
+    "measurable_attributes"
+   ],
+   "41506": [
+    "addition_subtraction"
+   ],
+   "41691": [
+    "measurable_attributes",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41505": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41631": [
+    "measurable_attributes"
+   ],
+   "40148": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41582": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40146": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41305": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40145": [
+    "counting",
+    "written_numerals"
+   ],
+   "41654": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41320": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41310": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41317": [
+    "comparing_groups"
+   ],
+   "41050": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40125": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41576": [
+    "measurable_attributes"
+   ],
+   "41529": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41580": [
+    "measurable_attributes"
+   ],
+   "41293": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40046": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41679": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "1330": [
+    "spatial_language"
+   ],
+   "41330": [
+    "spatial_language"
+   ],
+   "41201": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41667": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41296": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41820": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41818": [
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40081": [
+    "counting"
+   ],
+   "41078": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41595": [
+    "analyze_compare_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41760": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "41645": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "31099": [
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40113": [
+    "counting",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41277": [
+    "comparing_groups",
+    "spatial_language"
+   ],
+   "41250": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41636": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "41640": [
+    "measurable_attributes"
+   ],
+   "41197": [
+    "analyze_compare_shapes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "40001": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41641": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41586": [
+    "measurable_attributes"
+   ],
+   "41821": [
+    "sorting",
+    "spatial_language"
+   ],
+   "40076": [
+    "counting",
+    "written_numerals"
+   ],
+   "41016": [
+    "analyze_compare_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40020": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41328": [
+    "spatial_language"
+   ],
+   "40134": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41265": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41512": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41834": [
+    "building_drawing_shapes"
+   ],
+   "41185": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41878": [
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41830": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "40057": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41327": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "41652": [
+    "addition_subtraction",
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "41322": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41283": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41799": [
+    "sorting"
+   ],
+   "41842": [
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41063": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41866": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41501": [
+    "addition_subtraction",
+    "quantity_of_objects"
+   ],
+   "4033": [
+    "spatial_language"
+   ],
+   "41629": [
+    "measurable_attributes"
+   ],
+   "40087": [
+    "counting",
+    "written_numerals"
+   ],
+   "41325": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41621": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40047": [
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41562": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41521": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41661": [
+    "measurable_attributes"
+   ],
+   "41689": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41256": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40075": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41309": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41113": [
+    "shape_id"
+   ],
+   "41606": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "4060": [
+    "building_drawing_shapes",
+    "spatial_language"
+   ],
+   "41864": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41284": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41844": [
+    "analyze_compare_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41850": [
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40101": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41273": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41812": [
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41314": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41626": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41129": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40132": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ]
+  },
+  "literacy": {
+   "42000": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42072": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42099": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42107": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42116": [
+    "letter_names"
+   ],
+   "42137": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42195": [
+    "letter_names",
+    "follow_words",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42256": [
+    "letter_names"
+   ],
+   "42260": [
+    "letter_names"
+   ],
+   "42262": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42263": [
+    "letter_names"
+   ],
+   "42264": [
+    "letter_names"
+   ],
+   "42265": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42267": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42268": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42270": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42271": [
+    "letter_names"
+   ],
+   "42274": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42275": [
+    "letter_names"
+   ],
+   "42277": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42278": [
+    "letter_names"
+   ],
+   "42280": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42282": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42284": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42285": [
+    "letter_names"
+   ],
+   "42286": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42287": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42291": [
+    "letter_names"
+   ],
+   "42294": [
+    "letter_names"
+   ],
+   "42301": [
+    "letter_names",
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42304": [
+    "letter_names"
+   ],
+   "42308": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42310": [
+    "letter_names"
+   ],
+   "42316": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42317": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42318": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42321": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42322": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42326": [
+    "letter_names"
+   ],
+   "42330": [
+    "letter_names"
+   ],
+   "42331": [
+    "letter_names"
+   ],
+   "42332": [
+    "letter_names"
+   ],
+   "42334": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42336": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42339": [
+    "letter_names"
+   ],
+   "42340": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42341": [
+    "letter_names"
+   ],
+   "42345": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42346": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42348": [
+    "letter_names"
+   ],
+   "42349": [
+    "letter_names"
+   ],
+   "42351": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42355": [
+    "letter_names"
+   ],
+   "42359": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42361": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42365": [
+    "letter_names"
+   ],
+   "42366": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42372": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42385": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42390": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "letters_in_words",
+    "sounds_in_words",
+    "rhyming"
+   ],
+   "42400": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42414": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42416": [
+    "letter_names"
+   ],
+   "42419": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42507": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42516": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "rhyming"
+   ],
+   "42519": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42526": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42533": [
+    "letter_names"
+   ],
+   "42535": [
+    "letter_names",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42560": [
+    "letter_names"
+   ],
+   "42565": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42566": [
+    "letter_names"
+   ],
+   "42568": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42571": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42581": [
+    "letter_names"
+   ],
+   "42582": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42585": [
+    "letter_names"
+   ],
+   "42586": [
+    "letter_names"
+   ],
+   "42591": [
+    "letter_names"
+   ],
+   "42594": [
+    "letter_names"
+   ],
+   "42595": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42596": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42607": [
+    "letter_names"
+   ],
+   "42612": [
+    "letter_names"
+   ],
+   "42613": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42614": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42615": [
+    "letter_names"
+   ],
+   "42616": [
+    "letter_names"
+   ],
+   "42620": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42621": [
+    "letter_names"
+   ],
+   "42623": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42626": [
+    "letter_names"
+   ],
+   "42627": [
+    "letter_names"
+   ],
+   "42630": [
+    "letter_names"
+   ],
+   "42632": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42637": [
+    "letter_names"
+   ],
+   "42640": [
+    "letter_names"
+   ],
+   "42642": [
+    "letter_names"
+   ],
+   "42644": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42660": [
+    "letter_names",
+    "rhyming"
+   ],
+   "42663": [
+    "letter_names",
+    "follow_words",
+    "rhyming"
+   ],
+   "42680": [
+    "letter_names",
+    "follow_words",
+    "sight_words",
+    "letters_in_words",
+    "rhyming"
+   ],
+   "42774": [
+    "letter_names",
+    "follow_words",
+    "rhyming"
+   ],
+   "42839": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42842": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42844": [
+    "letter_names"
+   ],
+   "42847": [
+    "letter_names"
+   ],
+   "42848": [
+    "letter_names"
+   ],
+   "42851": [
+    "letter_names"
+   ],
+   "42853": [
+    "letter_names"
+   ],
+   "42855": [
+    "letter_names"
+   ],
+   "42858": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42860": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42862": [
+    "letter_names"
+   ],
+   "42863": [
+    "letter_names"
+   ],
+   "42867": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42873": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42875": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42876": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42877": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42878": [
+    "letter_names"
+   ],
+   "42881": [
+    "letter_names"
+   ],
+   "42882": [
+    "letter_names"
+   ],
+   "42883": [
+    "letter_names"
+   ],
+   "42885": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42887": [
+    "letter_names"
+   ],
+   "42891": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42894": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42899": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42901": [
+    "letter_names"
+   ],
+   "42902": [
+    "letter_names"
+   ],
+   "42904": [
+    "letter_names"
+   ],
+   "42905": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "43021": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "43022": [
+    "letter_names"
+   ],
+   "43028": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "43030": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "43035": [
+    "letter_names",
+    "follow_words"
+   ],
+   "43040": [
+    "letter_names"
+   ],
+   "43045": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "43047": [
+    "letter_names"
+   ],
+   "43050": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "43055": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "43056": [
+    "letter_names"
+   ],
+   "43059": [
+    "letter_names"
+   ],
+   "43061": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43066": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "43067": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "43070": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "43071": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "43073": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "43076": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "43081": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "43088": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "43104": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43105": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "43118": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43130": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43131": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43134": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "43136": [
+    "letter_names"
+   ],
+   "43143": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43145": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "43150": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "43156": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42003": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42362": [
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42380": [
+    "letter_sounds"
+   ],
+   "42381": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42392": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42396": [
+    "letter_sounds"
+   ],
+   "42397": [
+    "letter_sounds"
+   ],
+   "42399": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42401": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42403": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42405": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words"
+   ],
+   "42406": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42408": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42423": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42424": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42513": [
+    "letter_sounds"
+   ],
+   "42521": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42522": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42523": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42524": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42528": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42536": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42545": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42555": [
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42557": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42564": [
+    "letter_sounds",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42570": [
+    "letter_sounds",
+    "follow_words",
+    "sounds_in_words"
+   ],
+   "42572": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42574": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42593": [
+    "letter_sounds",
+    "follow_words"
+   ],
+   "42597": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42599": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words"
+   ],
+   "42605": [
+    "letter_sounds"
+   ],
+   "42608": [
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42624": [
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42673": [
+    "letter_sounds",
+    "sounds_in_words",
+    "rhyming"
+   ],
+   "42835": [
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words",
+    "sounds_in_words",
+    "rhyming"
+   ],
+   "42872": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "43072": [
+    "letter_sounds"
+   ],
+   "43075": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "43100": [
+    "letter_sounds"
+   ],
+   "43117": [
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "43163": [
+    "letter_sounds"
+   ],
+   "43164": [
+    "letter_sounds"
+   ],
+   "42001": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42044": [
+    "follow_words"
+   ],
+   "42298": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42302": [
+    "follow_words"
+   ],
+   "42374": [
+    "follow_words"
+   ],
+   "42410": [
+    "follow_words"
+   ],
+   "42501": [
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42543": [
+    "follow_words"
+   ],
+   "42600": [
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42651": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42652": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42658": [
+    "follow_words",
+    "sight_words",
+    "rhyming"
+   ],
+   "42667": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42756": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42764": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42769": [
+    "follow_words",
+    "sight_words",
+    "rhyming"
+   ],
+   "42778": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42788": [
+    "follow_words"
+   ],
+   "42789": [
+    "follow_words"
+   ],
+   "42790": [
+    "follow_words"
+   ],
+   "42793": [
+    "follow_words"
+   ],
+   "42796": [
+    "follow_words"
+   ],
+   "42798": [
+    "follow_words"
+   ],
+   "42800": [
+    "follow_words"
+   ],
+   "42801": [
+    "follow_words"
+   ],
+   "42802": [
+    "follow_words"
+   ],
+   "42805": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42807": [
+    "follow_words"
+   ],
+   "42812": [
+    "follow_words"
+   ],
+   "42816": [
+    "follow_words"
+   ],
+   "42818": [
+    "follow_words"
+   ],
+   "42819": [
+    "follow_words"
+   ],
+   "42820": [
+    "follow_words"
+   ],
+   "42825": [
+    "follow_words"
+   ],
+   "42829": [
+    "follow_words"
+   ],
+   "42830": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42831": [
+    "follow_words"
+   ],
+   "43000": [
+    "follow_words"
+   ],
+   "43009": [
+    "follow_words",
+    "sight_words"
+   ],
+   "43010": [
+    "follow_words"
+   ],
+   "43031": [
+    "follow_words"
+   ],
+   "43034": [
+    "follow_words"
+   ],
+   "43037": [
+    "follow_words"
+   ],
+   "43038": [
+    "follow_words"
+   ],
+   "43039": [
+    "follow_words",
+    "sight_words"
+   ],
+   "43116": [
+    "follow_words"
+   ],
+   "43119": [
+    "follow_words"
+   ],
+   "43121": [
+    "follow_words"
+   ],
+   "43123": [
+    "follow_words",
+    "sight_words"
+   ],
+   "43132": [
+    "follow_words"
+   ],
+   "43133": [
+    "follow_words"
+   ],
+   "43158": [
+    "follow_words"
+   ],
+   "43161": [
+    "follow_words"
+   ],
+   "43167": [
+    "follow_words"
+   ],
+   "43171": [
+    "follow_words"
+   ],
+   "42335": [
+    "sight_words"
+   ],
+   "42352": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42546": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42548": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42549": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42552": [
+    "sight_words"
+   ],
+   "42579": [
+    "sight_words"
+   ],
+   "42589": [
+    "sight_words"
+   ],
+   "42681": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42683": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42786": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42834": [
+    "sight_words",
+    "rhyming"
+   ],
+   "43064": [
+    "sight_words"
+   ],
+   "43065": [
+    "sight_words"
+   ],
+   "43069": [
+    "sight_words"
+   ],
+   "43085": [
+    "sight_words"
+   ],
+   "43137": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42767": [
+    "letters_in_words",
+    "rhyming"
+   ],
+   "42544": [
+    "sounds_in_words"
+   ],
+   "42122": [
+    "rhyming"
+   ],
+   "42662": [
+    "rhyming"
+   ],
+   "42664": [
+    "rhyming"
+   ],
+   "42668": [
+    "rhyming"
+   ],
+   "42671": [
+    "rhyming"
+   ],
+   "42672": [
+    "rhyming"
+   ],
+   "42674": [
+    "rhyming"
+   ],
+   "42678": [
+    "rhyming"
+   ],
+   "42682": [
+    "rhyming"
+   ],
+   "42684": [
+    "rhyming"
+   ],
+   "42685": [
+    "rhyming"
+   ],
+   "42686": [
+    "rhyming"
+   ],
+   "42753": [
+    "rhyming"
+   ],
+   "42754": [
+    "rhyming"
+   ],
+   "42758": [
+    "rhyming"
+   ],
+   "42760": [
+    "rhyming"
+   ],
+   "42766": [
+    "rhyming"
+   ],
+   "42780": [
+    "rhyming"
+   ],
+   "42782": [
+    "rhyming"
+   ],
+   "42783": [
+    "rhyming"
+   ],
+   "42784": [
+    "rhyming"
+   ],
+   "42785": [
+    "rhyming"
+   ],
+   "42832": [
+    "rhyming"
+   ]
+  }
+ },
+ "val": {
+  "math": {
+   "41508": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41509": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41000": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41001": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41002": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41516": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41520": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41012": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41526": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41017": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41530": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41533": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41538": [
+    "addition_subtraction"
+   ],
+   "41539": [
+    "addition_subtraction"
+   ],
+   "40003": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40004": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41543": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41544": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41033": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41546": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41035": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "40008": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41550": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40014": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40015": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41553": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40016": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41556": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41557": [
+    "addition_subtraction"
+   ],
+   "41558": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40024": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41050": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40026": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41566": [
+    "measurable_attributes"
+   ],
+   "41569": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40034": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41059": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41572": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41574": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40038": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41577": [
+    "measurable_attributes"
+   ],
+   "41067": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41581": [
+    "measurable_attributes"
+   ],
+   "41584": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "40050": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41588": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41590": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41593": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41081": [
+    "shape_id"
+   ],
+   "40059": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40064": [
+    "counting",
+    "written_numerals"
+   ],
+   "41601": [
+    "measurable_attributes"
+   ],
+   "41603": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "41604": [
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40070": [
+    "counting",
+    "written_numerals"
+   ],
+   "41607": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "1161": [
+    "spatial_language"
+   ],
+   "40073": [
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "written_numerals"
+   ],
+   "41104": [
+    "shape_id"
+   ],
+   "41616": [
+    "measurable_attributes"
+   ],
+   "41617": [
+    "measurable_attributes"
+   ],
+   "41107": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40083": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41622": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40090": [
+    "counting"
+   ],
+   "40094": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41635": [
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40100": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41125": [
+    "shape_id",
+    "written_numerals"
+   ],
+   "41128": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40105": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41644": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "40110": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40111": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41648": [
+    "counting",
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "41649": [
+    "measurable_attributes"
+   ],
+   "40116": [
+    "counting",
+    "written_numerals"
+   ],
+   "40119": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41657": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40122": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41659": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40123": [
+    "counting",
+    "written_numerals"
+   ],
+   "41662": [
+    "measurable_attributes"
+   ],
+   "41663": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40126": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40131": [
+    "counting",
+    "written_numerals"
+   ],
+   "41672": [
+    "measurable_attributes"
+   ],
+   "40136": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41675": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "40139": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40141": [
+    "counting",
+    "written_numerals"
+   ],
+   "1257": [
+    "spatial_language"
+   ],
+   "41257": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "2291": [
+    "counting",
+    "written_numerals"
+   ],
+   "41207": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41281": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41750": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "41753": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "41754": [
+    "sorting"
+   ],
+   "41755": [
+    "shape_id",
+    "sorting"
+   ],
+   "41757": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41767": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "41768": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "41769": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "41259": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41260": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41773": [
+    "comparing_groups",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41264": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41267": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41779": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41784": [
+    "shape_id"
+   ],
+   "41785": [
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "41274": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41278": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41280": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41282": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41794": [
+    "counting",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41796": [
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41285": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41286": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41801": [
+    "quantity_of_objects",
+    "shape_id",
+    "sorting"
+   ],
+   "41294": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41806": [
+    "sorting"
+   ],
+   "41299": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41813": [
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41814": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41303": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41311": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41823": [
+    "shape_id",
+    "sorting"
+   ],
+   "41313": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41824": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41825": [
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41318": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41319": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41321": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41330": [
+    "spatial_language"
+   ],
+   "41332": [
+    "spatial_language"
+   ],
+   "41845": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41334": [
+    "spatial_language"
+   ],
+   "41847": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41848": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41849": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41858": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41859": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41867": [
+    "measurable_attributes",
+    "sorting",
+    "spatial_language"
+   ],
+   "41872": [
+    "shape_id",
+    "sorting"
+   ],
+   "41882": [
+    "counting",
+    "sorting",
+    "spatial_language"
+   ],
+   "4058": [
+    "addition_subtraction",
+    "counting",
+    "written_numerals"
+   ],
+   "1020": [
+    "quantity_of_objects"
+   ]
+  },
+  "literacy": {
+   "42148": [
+    "letter_names",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42258": [
+    "letter_names"
+   ],
+   "42273": [
+    "letter_names"
+   ],
+   "42279": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42289": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words"
+   ],
+   "42290": [
+    "letter_names"
+   ],
+   "42292": [
+    "letter_names"
+   ],
+   "42295": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42296": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42297": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42300": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42305": [
+    "letter_names"
+   ],
+   "42313": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42315": [
+    "letter_names"
+   ],
+   "42325": [
+    "letter_names"
+   ],
+   "42327": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42328": [
+    "letter_names"
+   ],
+   "42344": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42347": [
+    "letter_names",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42373": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42378": [
+    "letter_names"
+   ],
+   "42388": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42412": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42415": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42421": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42504": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42518": [
+    "letter_names"
+   ],
+   "42531": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42558": [
+    "letter_names"
+   ],
+   "42583": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42584": [
+    "letter_names"
+   ],
+   "42587": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42601": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42619": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42622": [
+    "letter_names"
+   ],
+   "42628": [
+    "letter_names"
+   ],
+   "42629": [
+    "letter_names"
+   ],
+   "42633": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42641": [
+    "letter_names"
+   ],
+   "42649": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42669": [
+    "letter_names",
+    "rhyming"
+   ],
+   "42765": [
+    "letter_names",
+    "follow_words",
+    "sight_words",
+    "rhyming"
+   ],
+   "42810": [
+    "letter_names",
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42843": [
+    "letter_names"
+   ],
+   "42850": [
+    "letter_names"
+   ],
+   "42852": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42854": [
+    "letter_names"
+   ],
+   "42856": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42864": [
+    "letter_names"
+   ],
+   "42865": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42868": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42871": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42880": [
+    "letter_names"
+   ],
+   "42884": [
+    "letter_names"
+   ],
+   "42886": [
+    "letter_names"
+   ],
+   "42888": [
+    "letter_names"
+   ],
+   "42889": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42892": [
+    "letter_names"
+   ],
+   "42896": [
+    "letter_names"
+   ],
+   "42898": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "43007": [
+    "letter_names",
+    "follow_words"
+   ],
+   "43020": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43029": [
+    "letter_names"
+   ],
+   "43041": [
+    "letter_names",
+    "sight_words"
+   ],
+   "43044": [
+    "letter_names"
+   ],
+   "43048": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "43063": [
+    "letter_names",
+    "sight_words"
+   ],
+   "43068": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "43077": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "43083": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "43160": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42303": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42364": [
+    "letter_sounds",
+    "follow_words"
+   ],
+   "42367": [
+    "letter_sounds",
+    "follow_words",
+    "sounds_in_words"
+   ],
+   "42384": [
+    "letter_sounds"
+   ],
+   "42386": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42387": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42391": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42393": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "sounds_in_words",
+    "rhyming"
+   ],
+   "42395": [
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42398": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42404": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42409": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "rhyming"
+   ],
+   "42411": [
+    "letter_sounds"
+   ],
+   "42417": [
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42505": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42525": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42540": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42542": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42569": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42577": [
+    "letter_sounds"
+   ],
+   "42588": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42609": [
+    "letter_sounds"
+   ],
+   "43138": [
+    "letter_sounds",
+    "follow_words"
+   ],
+   "42159": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42319": [
+    "follow_words"
+   ],
+   "42376": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42382": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42383": [
+    "follow_words"
+   ],
+   "42503": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42537": [
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42757": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42770": [
+    "follow_words",
+    "sight_words",
+    "rhyming"
+   ],
+   "42771": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42773": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42794": [
+    "follow_words"
+   ],
+   "42806": [
+    "follow_words"
+   ],
+   "42814": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42817": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42823": [
+    "follow_words"
+   ],
+   "42826": [
+    "follow_words"
+   ],
+   "43008": [
+    "follow_words"
+   ],
+   "43033": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42517": [
+    "sight_words"
+   ],
+   "42538": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42547": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42550": [
+    "sight_words"
+   ],
+   "42573": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42580": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42650": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42657": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42677": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42750": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42751": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42775": [
+    "sight_words",
+    "rhyming"
+   ],
+   "43060": [
+    "sight_words"
+   ],
+   "43062": [
+    "sight_words"
+   ],
+   "43106": [
+    "sight_words"
+   ],
+   "42666": [
+    "rhyming"
+   ],
+   "42752": [
+    "rhyming"
+   ],
+   "42761": [
+    "rhyming"
+   ],
+   "42762": [
+    "rhyming"
+   ],
+   "42777": [
+    "rhyming"
+   ],
+   "42779": [
+    "rhyming"
+   ],
+   "42781": [
+    "rhyming"
+   ]
+  }
+ },
+ "test": {
+  "math": {
+   "41508": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41509": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41000": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41001": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41002": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41516": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41520": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41012": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41526": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41017": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41530": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41533": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41538": [
+    "addition_subtraction"
+   ],
+   "41539": [
+    "addition_subtraction"
+   ],
+   "40003": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40004": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41543": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41544": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41033": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "41546": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41035": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "40008": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41550": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40014": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40015": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41553": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "40016": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41556": [
+    "addition_subtraction",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41557": [
+    "addition_subtraction"
+   ],
+   "41558": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40024": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41050": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "40026": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41566": [
+    "measurable_attributes"
+   ],
+   "41569": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40034": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41059": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41572": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id"
+   ],
+   "41574": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40038": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41577": [
+    "measurable_attributes"
+   ],
+   "41067": [
+    "analyze_compare_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41581": [
+    "measurable_attributes"
+   ],
+   "41584": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "40050": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41588": [
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41590": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41593": [
+    "analyze_compare_shapes",
+    "measurable_attributes",
+    "shape_id"
+   ],
+   "41081": [
+    "shape_id"
+   ],
+   "40059": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40064": [
+    "counting",
+    "written_numerals"
+   ],
+   "41601": [
+    "measurable_attributes"
+   ],
+   "41603": [
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "41604": [
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40070": [
+    "counting",
+    "written_numerals"
+   ],
+   "41607": [
+    "analyze_compare_shapes",
+    "shape_id"
+   ],
+   "1161": [
+    "spatial_language"
+   ],
+   "40073": [
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "written_numerals"
+   ],
+   "41104": [
+    "shape_id"
+   ],
+   "41616": [
+    "measurable_attributes"
+   ],
+   "41617": [
+    "measurable_attributes"
+   ],
+   "41107": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40083": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41622": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40090": [
+    "counting"
+   ],
+   "40094": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41635": [
+    "measurable_attributes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "40100": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41125": [
+    "shape_id",
+    "written_numerals"
+   ],
+   "41128": [
+    "analyze_compare_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "40105": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41644": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "40110": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40111": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "41648": [
+    "counting",
+    "measurable_attributes",
+    "written_numerals"
+   ],
+   "41649": [
+    "measurable_attributes"
+   ],
+   "40116": [
+    "counting",
+    "written_numerals"
+   ],
+   "40119": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41657": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40122": [
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41659": [
+    "measurable_attributes",
+    "quantity_of_objects"
+   ],
+   "40123": [
+    "counting",
+    "written_numerals"
+   ],
+   "41662": [
+    "measurable_attributes"
+   ],
+   "41663": [
+    "measurable_attributes",
+    "spatial_language"
+   ],
+   "40126": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40131": [
+    "counting",
+    "written_numerals"
+   ],
+   "41672": [
+    "measurable_attributes"
+   ],
+   "40136": [
+    "addition_subtraction",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41675": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "spatial_language"
+   ],
+   "40139": [
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "40141": [
+    "counting",
+    "written_numerals"
+   ],
+   "1257": [
+    "spatial_language"
+   ],
+   "41257": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "2291": [
+    "counting",
+    "written_numerals"
+   ],
+   "41207": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41281": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals",
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41750": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "41753": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "41754": [
+    "sorting"
+   ],
+   "41755": [
+    "shape_id",
+    "sorting"
+   ],
+   "41757": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41767": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "41768": [
+    "measurable_attributes",
+    "sorting"
+   ],
+   "41769": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting"
+   ],
+   "41259": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41260": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects"
+   ],
+   "41773": [
+    "comparing_groups",
+    "counting",
+    "measurable_attributes",
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41264": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41267": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41779": [
+    "measurable_attributes",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41784": [
+    "shape_id"
+   ],
+   "41785": [
+    "quantity_of_objects",
+    "sorting"
+   ],
+   "41274": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41278": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41280": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41282": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41794": [
+    "counting",
+    "shape_id",
+    "sorting",
+    "written_numerals"
+   ],
+   "41796": [
+    "counting",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41285": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41286": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41801": [
+    "quantity_of_objects",
+    "shape_id",
+    "sorting"
+   ],
+   "41294": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41806": [
+    "sorting"
+   ],
+   "41299": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "spatial_language",
+    "written_numerals"
+   ],
+   "41813": [
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41814": [
+    "sorting",
+    "spatial_language"
+   ],
+   "41303": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41311": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41823": [
+    "shape_id",
+    "sorting"
+   ],
+   "41313": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41824": [
+    "measurable_attributes",
+    "quantity_of_objects",
+    "sorting",
+    "spatial_language"
+   ],
+   "41825": [
+    "quantity_of_objects",
+    "shape_id",
+    "sorting",
+    "spatial_language"
+   ],
+   "41318": [
+    "comparing_groups",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41319": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41321": [
+    "comparing_groups",
+    "counting",
+    "quantity_of_objects",
+    "written_numerals"
+   ],
+   "41330": [
+    "spatial_language"
+   ],
+   "41332": [
+    "spatial_language"
+   ],
+   "41845": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41334": [
+    "spatial_language"
+   ],
+   "41847": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41848": [
+    "building_drawing_shapes",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41849": [
+    "building_drawing_shapes",
+    "shape_id"
+   ],
+   "41858": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "counting",
+    "quantity_of_objects",
+    "shape_id",
+    "written_numerals"
+   ],
+   "41859": [
+    "analyze_compare_shapes",
+    "building_drawing_shapes",
+    "quantity_of_objects",
+    "shape_id",
+    "spatial_language"
+   ],
+   "41867": [
+    "measurable_attributes",
+    "sorting",
+    "spatial_language"
+   ],
+   "41872": [
+    "shape_id",
+    "sorting"
+   ],
+   "41882": [
+    "counting",
+    "sorting",
+    "spatial_language"
+   ],
+   "4058": [
+    "addition_subtraction",
+    "counting",
+    "written_numerals"
+   ],
+   "1020": [
+    "quantity_of_objects"
+   ]
+  },
+  "literacy": {
+   "42002": [
+    "letter_names"
+   ],
+   "42106": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words",
+    "sounds_in_words",
+    "rhyming"
+   ],
+   "42134": [
+    "letter_names"
+   ],
+   "42250": [
+    "letter_names"
+   ],
+   "42253": [
+    "letter_names",
+    "follow_words"
+   ],
+   "42254": [
+    "letter_names"
+   ],
+   "42276": [
+    "letter_names"
+   ],
+   "42288": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42299": [
+    "letter_names",
+    "letter_sounds"
+   ],
+   "42306": [
+    "letter_names"
+   ],
+   "42307": [
+    "letter_names"
+   ],
+   "42309": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42311": [
+    "letter_names"
+   ],
+   "42312": [
+    "letter_names"
+   ],
+   "42323": [
+    "letter_names"
+   ],
+   "42324": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42329": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words"
+   ],
+   "42333": [
+    "letter_names"
+   ],
+   "42337": [
+    "letter_names"
+   ],
+   "42338": [
+    "letter_names"
+   ],
+   "42343": [
+    "letter_names"
+   ],
+   "42350": [
+    "letter_names"
+   ],
+   "42356": [
+    "letter_names"
+   ],
+   "42357": [
+    "letter_names"
+   ],
+   "42371": [
+    "letter_names",
+    "follow_words",
+    "sight_words"
+   ],
+   "42377": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42413": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42500": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42509": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42514": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42527": [
+    "letter_names"
+   ],
+   "42532": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42590": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42604": [
+    "letter_names"
+   ],
+   "42606": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42618": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42634": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42635": [
+    "letter_names"
+   ],
+   "42639": [
+    "letter_names"
+   ],
+   "42643": [
+    "letter_names"
+   ],
+   "42647": [
+    "letter_names",
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42648": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sounds_in_words"
+   ],
+   "42679": [
+    "letter_names",
+    "follow_words",
+    "sight_words",
+    "letters_in_words",
+    "rhyming"
+   ],
+   "42840": [
+    "letter_names"
+   ],
+   "42845": [
+    "letter_names"
+   ],
+   "42846": [
+    "letter_names"
+   ],
+   "42857": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "42861": [
+    "letter_names"
+   ],
+   "42866": [
+    "letter_names"
+   ],
+   "42869": [
+    "letter_names"
+   ],
+   "42870": [
+    "letter_names"
+   ],
+   "42874": [
+    "letter_names",
+    "sight_words"
+   ],
+   "42879": [
+    "letter_names"
+   ],
+   "42890": [
+    "letter_names"
+   ],
+   "42895": [
+    "letter_names"
+   ],
+   "42897": [
+    "letter_names"
+   ],
+   "42900": [
+    "letter_names",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42903": [
+    "letter_names"
+   ],
+   "43023": [
+    "letter_names"
+   ],
+   "43024": [
+    "letter_names"
+   ],
+   "43026": [
+    "letter_names",
+    "letters_in_words"
+   ],
+   "43027": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "43032": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words"
+   ],
+   "43049": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words"
+   ],
+   "43052": [
+    "letter_names",
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "43078": [
+    "letter_names",
+    "letter_sounds",
+    "follow_words",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "43079": [
+    "letter_names",
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "43102": [
+    "letter_names",
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42132": [
+    "letter_sounds",
+    "letters_in_words"
+   ],
+   "42266": [
+    "letter_sounds",
+    "follow_words",
+    "letters_in_words",
+    "sounds_in_words"
+   ],
+   "42368": [
+    "letter_sounds",
+    "follow_words",
+    "sight_words"
+   ],
+   "42370": [
+    "letter_sounds"
+   ],
+   "42379": [
+    "letter_sounds",
+    "sounds_in_words"
+   ],
+   "42402": [
+    "letter_sounds",
+    "follow_words",
+    "sounds_in_words"
+   ],
+   "42418": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42422": [
+    "letter_sounds",
+    "follow_words"
+   ],
+   "42425": [
+    "letter_sounds",
+    "follow_words"
+   ],
+   "42508": [
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42529": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42567": [
+    "letter_sounds",
+    "sight_words",
+    "sounds_in_words"
+   ],
+   "42602": [
+    "letter_sounds"
+   ],
+   "43140": [
+    "letter_sounds",
+    "follow_words",
+    "sounds_in_words"
+   ],
+   "43142": [
+    "letter_sounds",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42126": [
+    "follow_words"
+   ],
+   "42502": [
+    "follow_words"
+   ],
+   "42656": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42787": [
+    "follow_words",
+    "rhyming"
+   ],
+   "42791": [
+    "follow_words"
+   ],
+   "42792": [
+    "follow_words"
+   ],
+   "42797": [
+    "follow_words"
+   ],
+   "42799": [
+    "follow_words"
+   ],
+   "42803": [
+    "follow_words"
+   ],
+   "42804": [
+    "follow_words"
+   ],
+   "42808": [
+    "follow_words"
+   ],
+   "42813": [
+    "follow_words",
+    "sight_words"
+   ],
+   "42815": [
+    "follow_words",
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42821": [
+    "follow_words"
+   ],
+   "42824": [
+    "follow_words"
+   ],
+   "42827": [
+    "follow_words"
+   ],
+   "42828": [
+    "follow_words",
+    "letters_in_words"
+   ],
+   "42836": [
+    "follow_words",
+    "rhyming"
+   ],
+   "43036": [
+    "follow_words",
+    "sight_words"
+   ],
+   "43120": [
+    "follow_words"
+   ],
+   "43122": [
+    "follow_words"
+   ],
+   "43124": [
+    "follow_words",
+    "sight_words"
+   ],
+   "43165": [
+    "follow_words"
+   ],
+   "42160": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42314": [
+    "sight_words"
+   ],
+   "42389": [
+    "sight_words"
+   ],
+   "42506": [
+    "sight_words",
+    "letters_in_words"
+   ],
+   "42511": [
+    "sight_words"
+   ],
+   "42515": [
+    "sight_words"
+   ],
+   "42575": [
+    "sight_words"
+   ],
+   "42576": [
+    "sight_words"
+   ],
+   "42578": [
+    "sight_words"
+   ],
+   "42653": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42670": [
+    "sight_words",
+    "rhyming"
+   ],
+   "42563": [
+    "letters_in_words"
+   ],
+   "43099": [
+    "sounds_in_words"
+   ],
+   "42655": [
+    "rhyming"
+   ],
+   "42659": [
+    "rhyming"
+   ],
+   "42661": [
+    "rhyming"
+   ],
+   "42665": [
+    "rhyming"
+   ],
+   "42675": [
+    "rhyming"
+   ],
+   "42676": [
+    "rhyming"
+   ],
+   "42687": [
+    "rhyming"
+   ],
+   "42759": [
+    "rhyming"
+   ],
+   "42772": [
+    "rhyming"
+   ],
+   "42833": [
+    "rhyming"
+   ],
+   "42837": [
+    "rhyming"
+   ]
+  }
+ }
+}
