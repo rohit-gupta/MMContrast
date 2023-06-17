@@ -6,8 +6,6 @@
 Our fine-grained, multi-label video dataset has been released ! [Link](https://github.com/rohit-gupta/MMContrast/tree/main/APPROVE)
 
 
-# WIP
-
 Built upon the source code for the [Nerfies website](https://nerfies.github.io).
 
 # Website License
