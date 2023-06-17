@@ -1,6 +1,10 @@
 # Class Prototypes based Contrastive Learning for Classifying Multi-Label and Fine-Grained Educational Videos
 #### CVPR2023
 
+# APPROVE Dataset
+
+Our fine-grained, multi-label video dataset has been released ! [Link](https://github.com/rohit-gupta/MMContrast/tree/main/APPROVE)
+
 
 # WIP
 
