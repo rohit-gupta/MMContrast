@@ -1,6 +1,6 @@
 
 
-The dataset contains the following files:
+The dataset contains the following files which provide a list of YouTube videos:
 
 `math_urls.csv`
 
@@ -24,10 +24,10 @@ e.g.
 ...
 ```
 
-The labels and data splits are provided in a dictionary file dumped using python stdlib's json.dump() function:
+The labels and train/val/test split information is provided in a dictionary file dumped using python stdlib's json.dump() function:
 (Note that background videos are not included in any particular split, we use them all during training only)
 
-approve_label_data.json:
+`approve_label_data.json`
 
 ```
 {
