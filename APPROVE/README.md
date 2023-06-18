@@ -66,3 +66,8 @@ The labels and train/val/test split information is provided in a dictionary file
   }
 }
 ```
+
+## License
+The annotations are copyright of SRI International and are under the CC-BY-NC 4.0 license. See [LICENSE](LICENSE) for details.
+
+
